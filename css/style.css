@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+#site_header{
+    height: 100px;
+    background-color: red;
+}
+
+#site_footer{
+    height: 50px;
+    background-color: aqua;
+}
