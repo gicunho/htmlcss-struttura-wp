@@ -1,3 +1,4 @@
+/* Common Classes */
 *{
     box-sizing: border-box;
     margin: 0;
@@ -9,6 +10,7 @@
     display: table;
     clear: both;
 }
+/* /Common Classes */
 
 .container{
     width: 80%;
@@ -30,6 +32,7 @@ nav{
     background-color: chartreuse;
 }
 
+/* Topic Classes */
 #topic{
     height: 50px;
     background-color: darkorange;
@@ -59,6 +62,8 @@ nav{
     float: left;
     background-color: salmon;
 }
+
+/* /Topic Classes */
 
 #site_footer{
     height: 50px;
